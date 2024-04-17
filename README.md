@@ -1,8 +1,8 @@
 # Bengali to IPA Translator
 
 Finalist at ITverse2023 Datathon, developed an accurate Bengali to International Phonetic Alphabet (IPA) translation model, facilitating linguistic analysis and language education. 
-### [Kaggle Notebook](https://www.kaggle.com/code/ishtiukahammed/bengali-to-ipa-translation/notebook)
-↑ ↑
+### [Kaggle Notebook](https://www.kaggle.com/code/ishtiukahammed/bengali-to-ipa-translation/notebook) ←
+↑             ↑
 
 ## Executive Summary
 This project focuses on the development of a sophisticated Bengali to International Phonetic Alphabet (IPA) translation model. The primary objective is to establish a seamless bridge between the intricate Bengali language and the standardized IPA notation, catering to various linguistic, educational, and research applications.
